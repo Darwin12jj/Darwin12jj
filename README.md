@@ -18,6 +18,7 @@
 ####  https://darwin12jj.github.io/Headers-Example/
 ####  https://darwin12jj.github.io/Blog-Example/
 ####  https://darwin12jj.github.io/Checkout-Example/
+####  https://darwin12jj.github.io/Product-example.github.io/
 ####  https://darwin12jj.github.io/Pricing-examples/
 ####  https://darwin12jj.github.io/Album-Examples/ 
 
