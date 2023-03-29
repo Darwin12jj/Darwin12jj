@@ -19,6 +19,6 @@
 ####  https://darwin12jj.github.io/Blog-Example/
 ####  https://darwin12jj.github.io/Checkout-Example/
 ####  https://darwin12jj.github.io/Pricing-examples/
-####  https://darwin12jj.github.io/Album-Examples/
+####  https://darwin12jj.github.io/Album-Examples/ 
 
 #### Darwin Jiménez Jaramillo
